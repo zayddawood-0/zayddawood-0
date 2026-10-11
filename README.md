@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Zayd%20Dawood&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Agentic%20AI%20Developer%20%7C%20Software%20Engineering%20Student%20%40%20IIUI&descSize=20&descAlignY=58" width="100%" alt="Muhammad Zayd Dawood — Agentic AI Developer | Software Engineering Student @ IIUI">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:30363D&height=220&section=header&text=Muhammad%20Zayd%20Dawood&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Agentic%20AI%20Developer%20%7C%20Software%20Engineering%20Student%20%40%20IIUI&descSize=20&descAlignY=58" width="100%" alt="Muhammad Zayd Dawood — Agentic AI Developer | Software Engineering Student @ IIUI">
 
 <p align="center">
-  <a href="https://github.com/zayddawood-0"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=900&lines=Building+agentic+AI+systems+that+actually+do+work;Multi-Agent+Systems+%C2%B7+RAG+%C2%B7+MCP;BS+Software+Engineering+%40+IIUI;Agentic+AI+%40+Panaversity" alt="Building agentic AI systems · Multi-Agent Systems · RAG · MCP · BS Software Engineering @ IIUI · Agentic AI @ Panaversity"></a>
+  <a href="https://github.com/zayddawood-0"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+agentic+AI+systems+that+actually+do+work;Multi-Agent+Systems+%C2%B7+RAG+%C2%B7+MCP;BS+Software+Engineering+%40+IIUI;Agentic+AI+%40+Panaversity" alt="Building agentic AI systems · Multi-Agent Systems · RAG · MCP · BS Software Engineering @ IIUI · Agentic AI @ Panaversity"></a>
 </p>
 
 # 💫 About Me:
@@ -17,7 +17,7 @@
 <p>
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://portfolio-ruddy-eta-kuetcldrzu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://portfolio-ruddy-eta-kuetcldrzu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-30363D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 # 💻 Tech Stack:
@@ -69,19 +69,19 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zayddawood-0&theme=tokyonight" alt="Profile details and contribution graph" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zayddawood-0&theme=github_dark" alt="Profile details and contribution graph" width="100%">
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zayddawood-0&theme=tokyonight&hide_border=false" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com/?user=zayddawood-0&theme=dark&hide_border=false" alt="GitHub streak">
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zayddawood-0&theme=tokyonight" alt="Top languages by repository" width="49%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zayddawood-0&theme=tokyonight" alt="Top languages by commit" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zayddawood-0&theme=github_dark" alt="Top languages by repository" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zayddawood-0&theme=github_dark" alt="Top languages by commit" width="49%">
 </p>
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=zayddawood-0&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub trophies">
+  <img src="https://github-trophies.vercel.app/?username=zayddawood-0&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub trophies">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:30363D&height=120&section=footer" width="100%" alt="">
