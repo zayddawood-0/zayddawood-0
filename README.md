@@ -17,8 +17,8 @@ zayd@iiui:~$ cat about.yml
 ```yaml
 name:        Muhammad Zayd Dawood
 role:        Agentic AI Engineer  ·  AI-for-Security builder
-education:   BS Software Engineering @ International Islamic University Islamabad (IIUI)
-learning:    Agentic AI @ Panaversity  ·  Forward Deployed Engineering
+education:   BS Software Engineering
+learning:    Agentic AI  ·  Forward Deployed Engineering
 building:    multi-agent copilots for code security, careers and admissions
 interests:   [multi-agent systems, RAG, MCP, threat detection, SOC automation, secure code review]
 ```
