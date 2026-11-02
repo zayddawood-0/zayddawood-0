@@ -21,8 +21,6 @@ education:   BS Software Engineering @ International Islamic University Islamaba
 learning:    Agentic AI @ Panaversity  ·  Forward Deployed Engineering
 building:    multi-agent copilots for code security, careers and admissions
 interests:   [multi-agent systems, RAG, MCP, threat detection, SOC automation, secure code review]
-leadership:  General Secretary, Computer Science Society (CSS) @ IIUI
-based_in:    Islamabad, Pakistan 🇵🇰
 ```
 
 ## About Me
