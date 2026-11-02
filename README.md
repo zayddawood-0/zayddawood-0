@@ -27,7 +27,6 @@ interests:   [multi-agent systems, RAG, MCP, threat detection, SOC automation, s
 🤖 I build **multi-agent systems, RAG pipelines and MCP-powered tools** — agents that actually do work, not just chat<br>
 🛡️ I point those agents at **security problems**: alert triage, threat detection, explainable SOC analysis and AI-driven code review<br>
 ⚡ Full-stack when needed — **Next.js / React** on the front, **FastAPI** on the back, **PostgreSQL + pgvector** for memory<br>
-🎯 Long-term goal: an **MS in Cybersecurity**, working where autonomous AI meets defensive security<br>
 🌐 Portfolio: **[portfolio-ruddy-eta-kuetcldrzu.vercel.app](https://portfolio-ruddy-eta-kuetcldrzu.vercel.app/)**
 
 ## Connect With Me
